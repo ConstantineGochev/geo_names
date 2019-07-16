@@ -1,0 +1,16 @@
+{
+  "name": "geo_names",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "byline": "^5.0.0",
+    "lodash.sortby": "^4.7.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
